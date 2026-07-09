@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "alltheores:block/basalt_kyanite_ore"
+  }
+}

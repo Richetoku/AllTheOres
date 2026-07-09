@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:carnelian_ore",
+    "alltheores:deepslate_carnelian_ore",
+    "alltheores:granite_carnelian_ore",
+    "alltheores:diorite_carnelian_ore",
+    "alltheores:andesite_carnelian_ore",
+    "alltheores:tuff_carnelian_ore",
+    "alltheores:calcite_carnelian_ore",
+    "alltheores:dripstone_carnelian_ore",
+    "alltheores:limestone_carnelian_ore",
+    "alltheores:scoria_carnelian_ore",
+    "alltheores:scorchia_carnelian_ore",
+    "alltheores:crimsite_carnelian_ore",
+    "alltheores:asurine_carnelian_ore",
+    "alltheores:veridium_carnelian_ore",
+    "alltheores:ochrum_carnelian_ore",
+    "alltheores:sand_carnelian_ore",
+    "alltheores:gravel_carnelian_ore",
+    "alltheores:nether_carnelian_ore",
+    "alltheores:blackstone_carnelian_ore",
+    "alltheores:basalt_carnelian_ore",
+    "alltheores:smooth_basalt_carnelian_ore",
+    "alltheores:end_carnelian_ore"
+  ]
+}

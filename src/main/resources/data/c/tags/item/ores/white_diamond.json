@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:white_diamond_ore",
+    "alltheores:deepslate_white_diamond_ore",
+    "alltheores:granite_white_diamond_ore",
+    "alltheores:diorite_white_diamond_ore",
+    "alltheores:andesite_white_diamond_ore",
+    "alltheores:tuff_white_diamond_ore",
+    "alltheores:calcite_white_diamond_ore",
+    "alltheores:dripstone_white_diamond_ore",
+    "alltheores:limestone_white_diamond_ore",
+    "alltheores:scoria_white_diamond_ore",
+    "alltheores:scorchia_white_diamond_ore",
+    "alltheores:crimsite_white_diamond_ore",
+    "alltheores:asurine_white_diamond_ore",
+    "alltheores:veridium_white_diamond_ore",
+    "alltheores:ochrum_white_diamond_ore",
+    "alltheores:sand_white_diamond_ore",
+    "alltheores:gravel_white_diamond_ore",
+    "alltheores:nether_white_diamond_ore",
+    "alltheores:blackstone_white_diamond_ore",
+    "alltheores:basalt_white_diamond_ore",
+    "alltheores:smooth_basalt_white_diamond_ore",
+    "alltheores:end_white_diamond_ore"
+  ]
+}

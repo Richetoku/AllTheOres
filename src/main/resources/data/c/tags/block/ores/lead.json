@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:lead_ore",
+    "alltheores:deepslate_lead_ore",
+    "alltheores:granite_lead_ore",
+    "alltheores:diorite_lead_ore",
+    "alltheores:andesite_lead_ore",
+    "alltheores:tuff_lead_ore",
+    "alltheores:calcite_lead_ore",
+    "alltheores:dripstone_lead_ore",
+    "alltheores:limestone_lead_ore",
+    "alltheores:scoria_lead_ore",
+    "alltheores:scorchia_lead_ore",
+    "alltheores:crimsite_lead_ore",
+    "alltheores:asurine_lead_ore",
+    "alltheores:veridium_lead_ore",
+    "alltheores:ochrum_lead_ore",
+    "alltheores:sand_lead_ore",
+    "alltheores:gravel_lead_ore",
+    "alltheores:nether_lead_ore",
+    "alltheores:blackstone_lead_ore",
+    "alltheores:basalt_lead_ore",
+    "alltheores:smooth_basalt_lead_ore",
+    "alltheores:end_lead_ore"
+  ]
+}

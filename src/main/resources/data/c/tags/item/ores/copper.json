@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:copper_ore",
+    "alltheores:deepslate_copper_ore",
+    "alltheores:granite_copper_ore",
+    "alltheores:diorite_copper_ore",
+    "alltheores:andesite_copper_ore",
+    "alltheores:tuff_copper_ore",
+    "alltheores:calcite_copper_ore",
+    "alltheores:dripstone_copper_ore",
+    "alltheores:limestone_copper_ore",
+    "alltheores:scoria_copper_ore",
+    "alltheores:scorchia_copper_ore",
+    "alltheores:crimsite_copper_ore",
+    "alltheores:asurine_copper_ore",
+    "alltheores:veridium_copper_ore",
+    "alltheores:ochrum_copper_ore",
+    "alltheores:sand_copper_ore",
+    "alltheores:gravel_copper_ore",
+    "alltheores:nether_copper_ore",
+    "alltheores:blackstone_copper_ore",
+    "alltheores:basalt_copper_ore",
+    "alltheores:smooth_basalt_copper_ore",
+    "alltheores:end_copper_ore"
+  ]
+}

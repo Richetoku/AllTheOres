@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:azure_silver_ore",
+    "alltheores:deepslate_azure_silver_ore",
+    "alltheores:granite_azure_silver_ore",
+    "alltheores:diorite_azure_silver_ore",
+    "alltheores:andesite_azure_silver_ore",
+    "alltheores:tuff_azure_silver_ore",
+    "alltheores:calcite_azure_silver_ore",
+    "alltheores:dripstone_azure_silver_ore",
+    "alltheores:limestone_azure_silver_ore",
+    "alltheores:scoria_azure_silver_ore",
+    "alltheores:scorchia_azure_silver_ore",
+    "alltheores:crimsite_azure_silver_ore",
+    "alltheores:asurine_azure_silver_ore",
+    "alltheores:veridium_azure_silver_ore",
+    "alltheores:ochrum_azure_silver_ore",
+    "alltheores:sand_azure_silver_ore",
+    "alltheores:gravel_azure_silver_ore",
+    "alltheores:nether_azure_silver_ore",
+    "alltheores:blackstone_azure_silver_ore",
+    "alltheores:basalt_azure_silver_ore",
+    "alltheores:smooth_basalt_azure_silver_ore",
+    "alltheores:end_azure_silver_ore"
+  ]
+}

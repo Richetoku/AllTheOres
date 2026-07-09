@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:prismarine_crystals_ore",
+    "alltheores:deepslate_prismarine_crystals_ore",
+    "alltheores:granite_prismarine_crystals_ore",
+    "alltheores:diorite_prismarine_crystals_ore",
+    "alltheores:andesite_prismarine_crystals_ore",
+    "alltheores:tuff_prismarine_crystals_ore",
+    "alltheores:calcite_prismarine_crystals_ore",
+    "alltheores:dripstone_prismarine_crystals_ore",
+    "alltheores:limestone_prismarine_crystals_ore",
+    "alltheores:scoria_prismarine_crystals_ore",
+    "alltheores:scorchia_prismarine_crystals_ore",
+    "alltheores:crimsite_prismarine_crystals_ore",
+    "alltheores:asurine_prismarine_crystals_ore",
+    "alltheores:veridium_prismarine_crystals_ore",
+    "alltheores:ochrum_prismarine_crystals_ore",
+    "alltheores:sand_prismarine_crystals_ore",
+    "alltheores:gravel_prismarine_crystals_ore",
+    "alltheores:nether_prismarine_crystals_ore",
+    "alltheores:blackstone_prismarine_crystals_ore",
+    "alltheores:basalt_prismarine_crystals_ore",
+    "alltheores:smooth_basalt_prismarine_crystals_ore",
+    "alltheores:end_prismarine_crystals_ore"
+  ]
+}

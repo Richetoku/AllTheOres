@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:ruby_ore",
+    "alltheores:deepslate_ruby_ore",
+    "alltheores:granite_ruby_ore",
+    "alltheores:diorite_ruby_ore",
+    "alltheores:andesite_ruby_ore",
+    "alltheores:tuff_ruby_ore",
+    "alltheores:calcite_ruby_ore",
+    "alltheores:dripstone_ruby_ore",
+    "alltheores:limestone_ruby_ore",
+    "alltheores:scoria_ruby_ore",
+    "alltheores:scorchia_ruby_ore",
+    "alltheores:crimsite_ruby_ore",
+    "alltheores:asurine_ruby_ore",
+    "alltheores:veridium_ruby_ore",
+    "alltheores:ochrum_ruby_ore",
+    "alltheores:sand_ruby_ore",
+    "alltheores:gravel_ruby_ore",
+    "alltheores:nether_ruby_ore",
+    "alltheores:blackstone_ruby_ore",
+    "alltheores:basalt_ruby_ore",
+    "alltheores:smooth_basalt_ruby_ore",
+    "alltheores:end_ruby_ore"
+  ]
+}

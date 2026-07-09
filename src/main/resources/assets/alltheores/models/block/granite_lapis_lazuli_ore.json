@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "alltheores:block/granite_lapis_lazuli_ore"
+  }
+}

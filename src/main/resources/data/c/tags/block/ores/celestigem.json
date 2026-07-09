@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:celestigem_ore",
+    "alltheores:deepslate_celestigem_ore",
+    "alltheores:granite_celestigem_ore",
+    "alltheores:diorite_celestigem_ore",
+    "alltheores:andesite_celestigem_ore",
+    "alltheores:tuff_celestigem_ore",
+    "alltheores:calcite_celestigem_ore",
+    "alltheores:dripstone_celestigem_ore",
+    "alltheores:limestone_celestigem_ore",
+    "alltheores:scoria_celestigem_ore",
+    "alltheores:scorchia_celestigem_ore",
+    "alltheores:crimsite_celestigem_ore",
+    "alltheores:asurine_celestigem_ore",
+    "alltheores:veridium_celestigem_ore",
+    "alltheores:ochrum_celestigem_ore",
+    "alltheores:sand_celestigem_ore",
+    "alltheores:gravel_celestigem_ore",
+    "alltheores:nether_celestigem_ore",
+    "alltheores:blackstone_celestigem_ore",
+    "alltheores:basalt_celestigem_ore",
+    "alltheores:smooth_basalt_celestigem_ore",
+    "alltheores:end_celestigem_ore"
+  ]
+}

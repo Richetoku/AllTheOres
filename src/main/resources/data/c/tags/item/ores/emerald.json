@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:emerald_ore",
+    "alltheores:deepslate_emerald_ore",
+    "alltheores:granite_emerald_ore",
+    "alltheores:diorite_emerald_ore",
+    "alltheores:andesite_emerald_ore",
+    "alltheores:tuff_emerald_ore",
+    "alltheores:calcite_emerald_ore",
+    "alltheores:dripstone_emerald_ore",
+    "alltheores:limestone_emerald_ore",
+    "alltheores:scoria_emerald_ore",
+    "alltheores:scorchia_emerald_ore",
+    "alltheores:crimsite_emerald_ore",
+    "alltheores:asurine_emerald_ore",
+    "alltheores:veridium_emerald_ore",
+    "alltheores:ochrum_emerald_ore",
+    "alltheores:sand_emerald_ore",
+    "alltheores:gravel_emerald_ore",
+    "alltheores:nether_emerald_ore",
+    "alltheores:blackstone_emerald_ore",
+    "alltheores:basalt_emerald_ore",
+    "alltheores:smooth_basalt_emerald_ore",
+    "alltheores:end_emerald_ore"
+  ]
+}

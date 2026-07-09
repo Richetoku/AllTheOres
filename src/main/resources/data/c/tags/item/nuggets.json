@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "#c:nuggets/copper",
+    "#c:nuggets/gold",
+    "#c:nuggets/iron",
+    "#c:nuggets/lead",
+    "#c:nuggets/nickel",
+    "#c:nuggets/silver",
+    "#c:nuggets/tin",
+    "#c:nuggets/uranium",
+    "#c:nuggets/iridium",
+    "#c:nuggets/osmium",
+    "#c:nuggets/platinum",
+    "#c:nuggets/zinc",
+    "#c:nuggets/aluminum",
+    "#c:nuggets/cobalt",
+    "#c:nuggets/azure_silver",
+    "#c:nuggets/crimson_iron"
+  ]
+}

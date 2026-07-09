@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:iolite_ore",
+    "alltheores:deepslate_iolite_ore",
+    "alltheores:granite_iolite_ore",
+    "alltheores:diorite_iolite_ore",
+    "alltheores:andesite_iolite_ore",
+    "alltheores:tuff_iolite_ore",
+    "alltheores:calcite_iolite_ore",
+    "alltheores:dripstone_iolite_ore",
+    "alltheores:limestone_iolite_ore",
+    "alltheores:scoria_iolite_ore",
+    "alltheores:scorchia_iolite_ore",
+    "alltheores:crimsite_iolite_ore",
+    "alltheores:asurine_iolite_ore",
+    "alltheores:veridium_iolite_ore",
+    "alltheores:ochrum_iolite_ore",
+    "alltheores:sand_iolite_ore",
+    "alltheores:gravel_iolite_ore",
+    "alltheores:nether_iolite_ore",
+    "alltheores:blackstone_iolite_ore",
+    "alltheores:basalt_iolite_ore",
+    "alltheores:smooth_basalt_iolite_ore",
+    "alltheores:end_iolite_ore"
+  ]
+}

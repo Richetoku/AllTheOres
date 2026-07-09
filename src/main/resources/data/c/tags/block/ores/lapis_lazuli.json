@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:lapis_lazuli_ore",
+    "alltheores:deepslate_lapis_lazuli_ore",
+    "alltheores:granite_lapis_lazuli_ore",
+    "alltheores:diorite_lapis_lazuli_ore",
+    "alltheores:andesite_lapis_lazuli_ore",
+    "alltheores:tuff_lapis_lazuli_ore",
+    "alltheores:calcite_lapis_lazuli_ore",
+    "alltheores:dripstone_lapis_lazuli_ore",
+    "alltheores:limestone_lapis_lazuli_ore",
+    "alltheores:scoria_lapis_lazuli_ore",
+    "alltheores:scorchia_lapis_lazuli_ore",
+    "alltheores:crimsite_lapis_lazuli_ore",
+    "alltheores:asurine_lapis_lazuli_ore",
+    "alltheores:veridium_lapis_lazuli_ore",
+    "alltheores:ochrum_lapis_lazuli_ore",
+    "alltheores:sand_lapis_lazuli_ore",
+    "alltheores:gravel_lapis_lazuli_ore",
+    "alltheores:nether_lapis_lazuli_ore",
+    "alltheores:blackstone_lapis_lazuli_ore",
+    "alltheores:basalt_lapis_lazuli_ore",
+    "alltheores:smooth_basalt_lapis_lazuli_ore",
+    "alltheores:end_lapis_lazuli_ore"
+  ]
+}

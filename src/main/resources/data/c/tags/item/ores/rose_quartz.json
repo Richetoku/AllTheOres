@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:rose_quartz_ore",
+    "alltheores:deepslate_rose_quartz_ore",
+    "alltheores:granite_rose_quartz_ore",
+    "alltheores:diorite_rose_quartz_ore",
+    "alltheores:andesite_rose_quartz_ore",
+    "alltheores:tuff_rose_quartz_ore",
+    "alltheores:calcite_rose_quartz_ore",
+    "alltheores:dripstone_rose_quartz_ore",
+    "alltheores:limestone_rose_quartz_ore",
+    "alltheores:scoria_rose_quartz_ore",
+    "alltheores:scorchia_rose_quartz_ore",
+    "alltheores:crimsite_rose_quartz_ore",
+    "alltheores:asurine_rose_quartz_ore",
+    "alltheores:veridium_rose_quartz_ore",
+    "alltheores:ochrum_rose_quartz_ore",
+    "alltheores:sand_rose_quartz_ore",
+    "alltheores:gravel_rose_quartz_ore",
+    "alltheores:nether_rose_quartz_ore",
+    "alltheores:blackstone_rose_quartz_ore",
+    "alltheores:basalt_rose_quartz_ore",
+    "alltheores:smooth_basalt_rose_quartz_ore",
+    "alltheores:end_rose_quartz_ore"
+  ]
+}

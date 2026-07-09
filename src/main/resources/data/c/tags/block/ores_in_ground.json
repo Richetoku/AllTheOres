@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "#c:ores_in_ground/stone",
+    "#c:ores_in_ground/deepslate",
+    "#c:ores_in_ground/granite",
+    "#c:ores_in_ground/diorite",
+    "#c:ores_in_ground/andesite",
+    "#c:ores_in_ground/tuff",
+    "#c:ores_in_ground/calcite",
+    "#c:ores_in_ground/dripstone",
+    "#c:ores_in_ground/limestone",
+    "#c:ores_in_ground/scoria",
+    "#c:ores_in_ground/scorchia",
+    "#c:ores_in_ground/crimsite",
+    "#c:ores_in_ground/asurine",
+    "#c:ores_in_ground/veridium",
+    "#c:ores_in_ground/ochrum",
+    "#c:ores_in_ground/sand",
+    "#c:ores_in_ground/gravel",
+    "#c:ores_in_ground/nether",
+    "#c:ores_in_ground/blackstone",
+    "#c:ores_in_ground/basalt",
+    "#c:ores_in_ground/smooth_basalt",
+    "#c:ores_in_ground/end"
+  ]
+}

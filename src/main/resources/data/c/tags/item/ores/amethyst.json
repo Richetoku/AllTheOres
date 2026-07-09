@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:amethyst_ore",
+    "alltheores:deepslate_amethyst_ore",
+    "alltheores:granite_amethyst_ore",
+    "alltheores:diorite_amethyst_ore",
+    "alltheores:andesite_amethyst_ore",
+    "alltheores:tuff_amethyst_ore",
+    "alltheores:calcite_amethyst_ore",
+    "alltheores:dripstone_amethyst_ore",
+    "alltheores:limestone_amethyst_ore",
+    "alltheores:scoria_amethyst_ore",
+    "alltheores:scorchia_amethyst_ore",
+    "alltheores:crimsite_amethyst_ore",
+    "alltheores:asurine_amethyst_ore",
+    "alltheores:veridium_amethyst_ore",
+    "alltheores:ochrum_amethyst_ore",
+    "alltheores:sand_amethyst_ore",
+    "alltheores:gravel_amethyst_ore",
+    "alltheores:nether_amethyst_ore",
+    "alltheores:blackstone_amethyst_ore",
+    "alltheores:basalt_amethyst_ore",
+    "alltheores:smooth_basalt_amethyst_ore",
+    "alltheores:end_amethyst_ore"
+  ]
+}

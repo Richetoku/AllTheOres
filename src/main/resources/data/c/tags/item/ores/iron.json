@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:iron_ore",
+    "alltheores:deepslate_iron_ore",
+    "alltheores:granite_iron_ore",
+    "alltheores:diorite_iron_ore",
+    "alltheores:andesite_iron_ore",
+    "alltheores:tuff_iron_ore",
+    "alltheores:calcite_iron_ore",
+    "alltheores:dripstone_iron_ore",
+    "alltheores:limestone_iron_ore",
+    "alltheores:scoria_iron_ore",
+    "alltheores:scorchia_iron_ore",
+    "alltheores:crimsite_iron_ore",
+    "alltheores:asurine_iron_ore",
+    "alltheores:veridium_iron_ore",
+    "alltheores:ochrum_iron_ore",
+    "alltheores:sand_iron_ore",
+    "alltheores:gravel_iron_ore",
+    "alltheores:nether_iron_ore",
+    "alltheores:blackstone_iron_ore",
+    "alltheores:basalt_iron_ore",
+    "alltheores:smooth_basalt_iron_ore",
+    "alltheores:end_iron_ore"
+  ]
+}

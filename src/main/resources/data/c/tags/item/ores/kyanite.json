@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:kyanite_ore",
+    "alltheores:deepslate_kyanite_ore",
+    "alltheores:granite_kyanite_ore",
+    "alltheores:diorite_kyanite_ore",
+    "alltheores:andesite_kyanite_ore",
+    "alltheores:tuff_kyanite_ore",
+    "alltheores:calcite_kyanite_ore",
+    "alltheores:dripstone_kyanite_ore",
+    "alltheores:limestone_kyanite_ore",
+    "alltheores:scoria_kyanite_ore",
+    "alltheores:scorchia_kyanite_ore",
+    "alltheores:crimsite_kyanite_ore",
+    "alltheores:asurine_kyanite_ore",
+    "alltheores:veridium_kyanite_ore",
+    "alltheores:ochrum_kyanite_ore",
+    "alltheores:sand_kyanite_ore",
+    "alltheores:gravel_kyanite_ore",
+    "alltheores:nether_kyanite_ore",
+    "alltheores:blackstone_kyanite_ore",
+    "alltheores:basalt_kyanite_ore",
+    "alltheores:smooth_basalt_kyanite_ore",
+    "alltheores:end_kyanite_ore"
+  ]
+}

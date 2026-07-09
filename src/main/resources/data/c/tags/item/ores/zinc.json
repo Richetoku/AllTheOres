@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:zinc_ore",
+    "alltheores:deepslate_zinc_ore",
+    "alltheores:granite_zinc_ore",
+    "alltheores:diorite_zinc_ore",
+    "alltheores:andesite_zinc_ore",
+    "alltheores:tuff_zinc_ore",
+    "alltheores:calcite_zinc_ore",
+    "alltheores:dripstone_zinc_ore",
+    "alltheores:limestone_zinc_ore",
+    "alltheores:scoria_zinc_ore",
+    "alltheores:scorchia_zinc_ore",
+    "alltheores:crimsite_zinc_ore",
+    "alltheores:asurine_zinc_ore",
+    "alltheores:veridium_zinc_ore",
+    "alltheores:ochrum_zinc_ore",
+    "alltheores:sand_zinc_ore",
+    "alltheores:gravel_zinc_ore",
+    "alltheores:nether_zinc_ore",
+    "alltheores:blackstone_zinc_ore",
+    "alltheores:basalt_zinc_ore",
+    "alltheores:smooth_basalt_zinc_ore",
+    "alltheores:end_zinc_ore"
+  ]
+}

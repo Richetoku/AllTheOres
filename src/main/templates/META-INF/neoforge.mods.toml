@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="Richetoku / RikumiMita, generated from RichStuff KubeJS material lists"
+description='''
+AllTheOres is an ATO-style ore/worldgen companion for RichStuff. It only registers ores and ore generation resources. Dusts, nuggets, tiny dusts, tiny nuggets, plates, gears, coins, molds, machines, and processing recipes stay in RichStuff.
+
+This build removes poor and dense ores and instead adds host-stone variants for vanilla terrain stones and Create stones such as limestone, scoria, scorchia, crimsite, asurine, veridium, and ochrum.
+'''
+[[dependencies.${mod_id}]]
+modId="neoforge"
+type="required"
+versionRange="[${neo_version},)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.${mod_id}]]
+modId="minecraft"
+type="required"
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"
+[[dependencies.${mod_id}]]
+modId="create"
+type="optional"
+ordering="AFTER"
+side="BOTH"

@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:cobalt_ore",
+    "alltheores:deepslate_cobalt_ore",
+    "alltheores:granite_cobalt_ore",
+    "alltheores:diorite_cobalt_ore",
+    "alltheores:andesite_cobalt_ore",
+    "alltheores:tuff_cobalt_ore",
+    "alltheores:calcite_cobalt_ore",
+    "alltheores:dripstone_cobalt_ore",
+    "alltheores:limestone_cobalt_ore",
+    "alltheores:scoria_cobalt_ore",
+    "alltheores:scorchia_cobalt_ore",
+    "alltheores:crimsite_cobalt_ore",
+    "alltheores:asurine_cobalt_ore",
+    "alltheores:veridium_cobalt_ore",
+    "alltheores:ochrum_cobalt_ore",
+    "alltheores:sand_cobalt_ore",
+    "alltheores:gravel_cobalt_ore",
+    "alltheores:nether_cobalt_ore",
+    "alltheores:blackstone_cobalt_ore",
+    "alltheores:basalt_cobalt_ore",
+    "alltheores:smooth_basalt_cobalt_ore",
+    "alltheores:end_cobalt_ore"
+  ]
+}

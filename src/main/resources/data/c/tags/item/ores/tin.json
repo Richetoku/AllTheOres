@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:tin_ore",
+    "alltheores:deepslate_tin_ore",
+    "alltheores:granite_tin_ore",
+    "alltheores:diorite_tin_ore",
+    "alltheores:andesite_tin_ore",
+    "alltheores:tuff_tin_ore",
+    "alltheores:calcite_tin_ore",
+    "alltheores:dripstone_tin_ore",
+    "alltheores:limestone_tin_ore",
+    "alltheores:scoria_tin_ore",
+    "alltheores:scorchia_tin_ore",
+    "alltheores:crimsite_tin_ore",
+    "alltheores:asurine_tin_ore",
+    "alltheores:veridium_tin_ore",
+    "alltheores:ochrum_tin_ore",
+    "alltheores:sand_tin_ore",
+    "alltheores:gravel_tin_ore",
+    "alltheores:nether_tin_ore",
+    "alltheores:blackstone_tin_ore",
+    "alltheores:basalt_tin_ore",
+    "alltheores:smooth_basalt_tin_ore",
+    "alltheores:end_tin_ore"
+  ]
+}

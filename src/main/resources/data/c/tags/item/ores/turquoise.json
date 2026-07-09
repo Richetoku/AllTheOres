@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:turquoise_ore",
+    "alltheores:deepslate_turquoise_ore",
+    "alltheores:granite_turquoise_ore",
+    "alltheores:diorite_turquoise_ore",
+    "alltheores:andesite_turquoise_ore",
+    "alltheores:tuff_turquoise_ore",
+    "alltheores:calcite_turquoise_ore",
+    "alltheores:dripstone_turquoise_ore",
+    "alltheores:limestone_turquoise_ore",
+    "alltheores:scoria_turquoise_ore",
+    "alltheores:scorchia_turquoise_ore",
+    "alltheores:crimsite_turquoise_ore",
+    "alltheores:asurine_turquoise_ore",
+    "alltheores:veridium_turquoise_ore",
+    "alltheores:ochrum_turquoise_ore",
+    "alltheores:sand_turquoise_ore",
+    "alltheores:gravel_turquoise_ore",
+    "alltheores:nether_turquoise_ore",
+    "alltheores:blackstone_turquoise_ore",
+    "alltheores:basalt_turquoise_ore",
+    "alltheores:smooth_basalt_turquoise_ore",
+    "alltheores:end_turquoise_ore"
+  ]
+}

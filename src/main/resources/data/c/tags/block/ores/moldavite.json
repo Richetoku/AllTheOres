@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:moldavite_ore",
+    "alltheores:deepslate_moldavite_ore",
+    "alltheores:granite_moldavite_ore",
+    "alltheores:diorite_moldavite_ore",
+    "alltheores:andesite_moldavite_ore",
+    "alltheores:tuff_moldavite_ore",
+    "alltheores:calcite_moldavite_ore",
+    "alltheores:dripstone_moldavite_ore",
+    "alltheores:limestone_moldavite_ore",
+    "alltheores:scoria_moldavite_ore",
+    "alltheores:scorchia_moldavite_ore",
+    "alltheores:crimsite_moldavite_ore",
+    "alltheores:asurine_moldavite_ore",
+    "alltheores:veridium_moldavite_ore",
+    "alltheores:ochrum_moldavite_ore",
+    "alltheores:sand_moldavite_ore",
+    "alltheores:gravel_moldavite_ore",
+    "alltheores:nether_moldavite_ore",
+    "alltheores:blackstone_moldavite_ore",
+    "alltheores:basalt_moldavite_ore",
+    "alltheores:smooth_basalt_moldavite_ore",
+    "alltheores:end_moldavite_ore"
+  ]
+}

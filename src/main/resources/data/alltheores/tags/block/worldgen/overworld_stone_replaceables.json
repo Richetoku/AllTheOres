@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "#alltheores:worldgen/stone_replaceables",
+    "#alltheores:worldgen/deepslate_replaceables",
+    "#alltheores:worldgen/granite_replaceables",
+    "#alltheores:worldgen/diorite_replaceables",
+    "#alltheores:worldgen/andesite_replaceables",
+    "#alltheores:worldgen/tuff_replaceables",
+    "#alltheores:worldgen/calcite_replaceables",
+    "#alltheores:worldgen/dripstone_replaceables",
+    "#alltheores:worldgen/limestone_replaceables",
+    "#alltheores:worldgen/scoria_replaceables",
+    "#alltheores:worldgen/scorchia_replaceables",
+    "#alltheores:worldgen/crimsite_replaceables",
+    "#alltheores:worldgen/asurine_replaceables",
+    "#alltheores:worldgen/veridium_replaceables",
+    "#alltheores:worldgen/ochrum_replaceables"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": "alltheores:prismarine_shard_blackstone_ore",
+  "step": "underground_ores"
+}

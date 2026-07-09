@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:black_diamond_ore",
+    "alltheores:deepslate_black_diamond_ore",
+    "alltheores:granite_black_diamond_ore",
+    "alltheores:diorite_black_diamond_ore",
+    "alltheores:andesite_black_diamond_ore",
+    "alltheores:tuff_black_diamond_ore",
+    "alltheores:calcite_black_diamond_ore",
+    "alltheores:dripstone_black_diamond_ore",
+    "alltheores:limestone_black_diamond_ore",
+    "alltheores:scoria_black_diamond_ore",
+    "alltheores:scorchia_black_diamond_ore",
+    "alltheores:crimsite_black_diamond_ore",
+    "alltheores:asurine_black_diamond_ore",
+    "alltheores:veridium_black_diamond_ore",
+    "alltheores:ochrum_black_diamond_ore",
+    "alltheores:sand_black_diamond_ore",
+    "alltheores:gravel_black_diamond_ore",
+    "alltheores:nether_black_diamond_ore",
+    "alltheores:blackstone_black_diamond_ore",
+    "alltheores:basalt_black_diamond_ore",
+    "alltheores:smooth_basalt_black_diamond_ore",
+    "alltheores:end_black_diamond_ore"
+  ]
+}

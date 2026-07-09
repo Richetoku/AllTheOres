@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "alltheores:azure_silver_veridium_ore",
+  "step": "underground_ores"
+}

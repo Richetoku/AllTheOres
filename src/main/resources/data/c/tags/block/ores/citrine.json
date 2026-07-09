@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:citrine_ore",
+    "alltheores:deepslate_citrine_ore",
+    "alltheores:granite_citrine_ore",
+    "alltheores:diorite_citrine_ore",
+    "alltheores:andesite_citrine_ore",
+    "alltheores:tuff_citrine_ore",
+    "alltheores:calcite_citrine_ore",
+    "alltheores:dripstone_citrine_ore",
+    "alltheores:limestone_citrine_ore",
+    "alltheores:scoria_citrine_ore",
+    "alltheores:scorchia_citrine_ore",
+    "alltheores:crimsite_citrine_ore",
+    "alltheores:asurine_citrine_ore",
+    "alltheores:veridium_citrine_ore",
+    "alltheores:ochrum_citrine_ore",
+    "alltheores:sand_citrine_ore",
+    "alltheores:gravel_citrine_ore",
+    "alltheores:nether_citrine_ore",
+    "alltheores:blackstone_citrine_ore",
+    "alltheores:basalt_citrine_ore",
+    "alltheores:smooth_basalt_citrine_ore",
+    "alltheores:end_citrine_ore"
+  ]
+}

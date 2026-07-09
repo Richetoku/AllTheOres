@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:sapphire_ore",
+    "alltheores:deepslate_sapphire_ore",
+    "alltheores:granite_sapphire_ore",
+    "alltheores:diorite_sapphire_ore",
+    "alltheores:andesite_sapphire_ore",
+    "alltheores:tuff_sapphire_ore",
+    "alltheores:calcite_sapphire_ore",
+    "alltheores:dripstone_sapphire_ore",
+    "alltheores:limestone_sapphire_ore",
+    "alltheores:scoria_sapphire_ore",
+    "alltheores:scorchia_sapphire_ore",
+    "alltheores:crimsite_sapphire_ore",
+    "alltheores:asurine_sapphire_ore",
+    "alltheores:veridium_sapphire_ore",
+    "alltheores:ochrum_sapphire_ore",
+    "alltheores:sand_sapphire_ore",
+    "alltheores:gravel_sapphire_ore",
+    "alltheores:nether_sapphire_ore",
+    "alltheores:blackstone_sapphire_ore",
+    "alltheores:basalt_sapphire_ore",
+    "alltheores:smooth_basalt_sapphire_ore",
+    "alltheores:end_sapphire_ore"
+  ]
+}

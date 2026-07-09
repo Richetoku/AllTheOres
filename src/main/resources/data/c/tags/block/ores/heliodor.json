@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:heliodor_ore",
+    "alltheores:deepslate_heliodor_ore",
+    "alltheores:granite_heliodor_ore",
+    "alltheores:diorite_heliodor_ore",
+    "alltheores:andesite_heliodor_ore",
+    "alltheores:tuff_heliodor_ore",
+    "alltheores:calcite_heliodor_ore",
+    "alltheores:dripstone_heliodor_ore",
+    "alltheores:limestone_heliodor_ore",
+    "alltheores:scoria_heliodor_ore",
+    "alltheores:scorchia_heliodor_ore",
+    "alltheores:crimsite_heliodor_ore",
+    "alltheores:asurine_heliodor_ore",
+    "alltheores:veridium_heliodor_ore",
+    "alltheores:ochrum_heliodor_ore",
+    "alltheores:sand_heliodor_ore",
+    "alltheores:gravel_heliodor_ore",
+    "alltheores:nether_heliodor_ore",
+    "alltheores:blackstone_heliodor_ore",
+    "alltheores:basalt_heliodor_ore",
+    "alltheores:smooth_basalt_heliodor_ore",
+    "alltheores:end_heliodor_ore"
+  ]
+}

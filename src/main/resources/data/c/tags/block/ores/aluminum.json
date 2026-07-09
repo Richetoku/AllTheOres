@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:aluminum_ore",
+    "alltheores:deepslate_aluminum_ore",
+    "alltheores:granite_aluminum_ore",
+    "alltheores:diorite_aluminum_ore",
+    "alltheores:andesite_aluminum_ore",
+    "alltheores:tuff_aluminum_ore",
+    "alltheores:calcite_aluminum_ore",
+    "alltheores:dripstone_aluminum_ore",
+    "alltheores:limestone_aluminum_ore",
+    "alltheores:scoria_aluminum_ore",
+    "alltheores:scorchia_aluminum_ore",
+    "alltheores:crimsite_aluminum_ore",
+    "alltheores:asurine_aluminum_ore",
+    "alltheores:veridium_aluminum_ore",
+    "alltheores:ochrum_aluminum_ore",
+    "alltheores:sand_aluminum_ore",
+    "alltheores:gravel_aluminum_ore",
+    "alltheores:nether_aluminum_ore",
+    "alltheores:blackstone_aluminum_ore",
+    "alltheores:basalt_aluminum_ore",
+    "alltheores:smooth_basalt_aluminum_ore",
+    "alltheores:end_aluminum_ore"
+  ]
+}

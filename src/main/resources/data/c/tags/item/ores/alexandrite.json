@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:alexandrite_ore",
+    "alltheores:deepslate_alexandrite_ore",
+    "alltheores:granite_alexandrite_ore",
+    "alltheores:diorite_alexandrite_ore",
+    "alltheores:andesite_alexandrite_ore",
+    "alltheores:tuff_alexandrite_ore",
+    "alltheores:calcite_alexandrite_ore",
+    "alltheores:dripstone_alexandrite_ore",
+    "alltheores:limestone_alexandrite_ore",
+    "alltheores:scoria_alexandrite_ore",
+    "alltheores:scorchia_alexandrite_ore",
+    "alltheores:crimsite_alexandrite_ore",
+    "alltheores:asurine_alexandrite_ore",
+    "alltheores:veridium_alexandrite_ore",
+    "alltheores:ochrum_alexandrite_ore",
+    "alltheores:sand_alexandrite_ore",
+    "alltheores:gravel_alexandrite_ore",
+    "alltheores:nether_alexandrite_ore",
+    "alltheores:blackstone_alexandrite_ore",
+    "alltheores:basalt_alexandrite_ore",
+    "alltheores:smooth_basalt_alexandrite_ore",
+    "alltheores:end_alexandrite_ore"
+  ]
+}

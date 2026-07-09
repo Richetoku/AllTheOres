@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:quartz_ore",
+    "alltheores:deepslate_quartz_ore",
+    "alltheores:granite_quartz_ore",
+    "alltheores:diorite_quartz_ore",
+    "alltheores:andesite_quartz_ore",
+    "alltheores:tuff_quartz_ore",
+    "alltheores:calcite_quartz_ore",
+    "alltheores:dripstone_quartz_ore",
+    "alltheores:limestone_quartz_ore",
+    "alltheores:scoria_quartz_ore",
+    "alltheores:scorchia_quartz_ore",
+    "alltheores:crimsite_quartz_ore",
+    "alltheores:asurine_quartz_ore",
+    "alltheores:veridium_quartz_ore",
+    "alltheores:ochrum_quartz_ore",
+    "alltheores:sand_quartz_ore",
+    "alltheores:gravel_quartz_ore",
+    "alltheores:nether_quartz_ore",
+    "alltheores:blackstone_quartz_ore",
+    "alltheores:basalt_quartz_ore",
+    "alltheores:smooth_basalt_quartz_ore",
+    "alltheores:end_quartz_ore"
+  ]
+}

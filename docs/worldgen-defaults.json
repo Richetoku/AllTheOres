@@ -1,0 +1,6362 @@
+{
+  "copper": {
+    "tier": 3,
+    "hosts": {
+      "stone": {
+        "count": 16,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 16,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 10,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 10,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 10,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 10,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 10,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 10,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 8,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 8,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 8,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 8,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 8,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 8,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 8,
+        "size": 10,
+        "min_y": -64,
+        "max_y": 128,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 5,
+        "size": 5,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 5,
+        "size": 5,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 8,
+        "size": 10,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 8,
+        "size": 10,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 8,
+        "size": 10,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 8,
+        "size": 10,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 5,
+        "size": 5,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "gold": {
+    "tier": 4,
+    "hosts": {
+      "stone": {
+        "count": 8,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 8,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 5,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 5,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 5,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 5,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 5,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 5,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 4,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 4,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 4,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 4,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 4,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 4,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 4,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 48,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 2,
+        "size": 4,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 2,
+        "size": 4,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 4,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 4,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 4,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 4,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 2,
+        "size": 4,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "iron": {
+    "tier": 3,
+    "hosts": {
+      "stone": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 4,
+        "size": 4,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 4,
+        "size": 4,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 4,
+        "size": 4,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "lead": {
+    "tier": 4,
+    "hosts": {
+      "stone": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 4,
+        "size": 4,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 4,
+        "size": 4,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 4,
+        "size": 4,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "nickel": {
+    "tier": 3,
+    "hosts": {
+      "stone": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 4,
+        "size": 4,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 4,
+        "size": 4,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 4,
+        "size": 4,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "silver": {
+    "tier": 4,
+    "hosts": {
+      "stone": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 4,
+        "size": 4,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 4,
+        "size": 4,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 4,
+        "size": 4,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "tin": {
+    "tier": 4,
+    "hosts": {
+      "stone": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 4,
+        "size": 4,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 4,
+        "size": 4,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 4,
+        "size": 4,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "uranium": {
+    "tier": 7,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "iridium": {
+    "tier": 7,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "osmium": {
+    "tier": 4,
+    "hosts": {
+      "stone": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 4,
+        "size": 4,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 4,
+        "size": 4,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 4,
+        "size": 4,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "platinum": {
+    "tier": 7,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "zinc": {
+    "tier": 4,
+    "hosts": {
+      "stone": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 4,
+        "size": 4,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 4,
+        "size": 4,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 4,
+        "size": 4,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "aluminum": {
+    "tier": 4,
+    "hosts": {
+      "stone": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 4,
+        "size": 4,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 4,
+        "size": 4,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 4,
+        "size": 4,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "cobalt": {
+    "tier": 5,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "azure_silver": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "crimson_iron": {
+    "tier": 4,
+    "hosts": {
+      "stone": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 4,
+        "size": 4,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 4,
+        "size": 4,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 4,
+        "size": 4,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "diamond": {
+    "tier": 5,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "emerald": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "lapis_lazuli": {
+    "tier": 3,
+    "hosts": {
+      "stone": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 4,
+        "size": 4,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 4,
+        "size": 4,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 4,
+        "size": 4,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "alexandrite": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "ammolite": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "black_diamond": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "carnelian": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "citrine": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "heliodor": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "iolite": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "kyanite": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "moldavite": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "peridot": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "rose_quartz": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "ruby": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "sapphire": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "topaz": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "turquoise": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "white_diamond": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "celestigem": {
+    "tier": 6,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "quartz": {
+    "tier": 3,
+    "hosts": {
+      "stone": {
+        "count": 16,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 16,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 10,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 10,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 10,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 10,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 10,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 10,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 8,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 8,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 8,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 8,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 8,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 8,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 8,
+        "size": 12,
+        "min_y": 10,
+        "max_y": 118,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 5,
+        "size": 6,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 5,
+        "size": 6,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 8,
+        "size": 12,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 8,
+        "size": 12,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 8,
+        "size": 12,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 8,
+        "size": 12,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 5,
+        "size": 6,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "amethyst": {
+    "tier": 3,
+    "hosts": {
+      "stone": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 12,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 7,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 6,
+        "size": 9,
+        "min_y": -64,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 4,
+        "size": 4,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 4,
+        "size": 4,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 6,
+        "size": 9,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 4,
+        "size": 4,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "prismarine_shard": {
+    "tier": 5,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  },
+  "prismarine_crystals": {
+    "tier": 7,
+    "hosts": {
+      "stone": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "deepslate": {
+        "count": 4,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "granite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "diorite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "andesite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "tuff": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "calcite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "dripstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "limestone": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scoria": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "scorchia": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "crimsite": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "asurine": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "veridium": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "ochrum": {
+        "count": 2,
+        "size": 5,
+        "min_y": -64,
+        "max_y": 32,
+        "biome": "#minecraft:is_overworld"
+      },
+      "sand": {
+        "count": 1,
+        "size": 3,
+        "min_y": 48,
+        "max_y": 96,
+        "biome": "#minecraft:is_overworld"
+      },
+      "gravel": {
+        "count": 1,
+        "size": 3,
+        "min_y": -16,
+        "max_y": 64,
+        "biome": "#minecraft:is_overworld"
+      },
+      "nether": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "blackstone": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "smooth_basalt": {
+        "count": 2,
+        "size": 5,
+        "min_y": 8,
+        "max_y": 118,
+        "biome": "#minecraft:is_nether"
+      },
+      "end": {
+        "count": 1,
+        "size": 3,
+        "min_y": 0,
+        "max_y": 80,
+        "biome": "#minecraft:is_end"
+      }
+    }
+  }
+}

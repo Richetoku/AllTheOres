@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:gold_ore",
+    "alltheores:deepslate_gold_ore",
+    "alltheores:granite_gold_ore",
+    "alltheores:diorite_gold_ore",
+    "alltheores:andesite_gold_ore",
+    "alltheores:tuff_gold_ore",
+    "alltheores:calcite_gold_ore",
+    "alltheores:dripstone_gold_ore",
+    "alltheores:limestone_gold_ore",
+    "alltheores:scoria_gold_ore",
+    "alltheores:scorchia_gold_ore",
+    "alltheores:crimsite_gold_ore",
+    "alltheores:asurine_gold_ore",
+    "alltheores:veridium_gold_ore",
+    "alltheores:ochrum_gold_ore",
+    "alltheores:sand_gold_ore",
+    "alltheores:gravel_gold_ore",
+    "alltheores:nether_gold_ore",
+    "alltheores:blackstone_gold_ore",
+    "alltheores:basalt_gold_ore",
+    "alltheores:smooth_basalt_gold_ore",
+    "alltheores:end_gold_ore"
+  ]
+}

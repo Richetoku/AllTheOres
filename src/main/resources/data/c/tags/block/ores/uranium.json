@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:uranium_ore",
+    "alltheores:deepslate_uranium_ore",
+    "alltheores:granite_uranium_ore",
+    "alltheores:diorite_uranium_ore",
+    "alltheores:andesite_uranium_ore",
+    "alltheores:tuff_uranium_ore",
+    "alltheores:calcite_uranium_ore",
+    "alltheores:dripstone_uranium_ore",
+    "alltheores:limestone_uranium_ore",
+    "alltheores:scoria_uranium_ore",
+    "alltheores:scorchia_uranium_ore",
+    "alltheores:crimsite_uranium_ore",
+    "alltheores:asurine_uranium_ore",
+    "alltheores:veridium_uranium_ore",
+    "alltheores:ochrum_uranium_ore",
+    "alltheores:sand_uranium_ore",
+    "alltheores:gravel_uranium_ore",
+    "alltheores:nether_uranium_ore",
+    "alltheores:blackstone_uranium_ore",
+    "alltheores:basalt_uranium_ore",
+    "alltheores:smooth_basalt_uranium_ore",
+    "alltheores:end_uranium_ore"
+  ]
+}

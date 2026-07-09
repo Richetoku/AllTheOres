@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "alltheores:white_diamond_ochrum_ore",
+  "step": "underground_ores"
+}

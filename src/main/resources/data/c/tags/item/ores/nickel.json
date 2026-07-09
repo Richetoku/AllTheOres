@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:nickel_ore",
+    "alltheores:deepslate_nickel_ore",
+    "alltheores:granite_nickel_ore",
+    "alltheores:diorite_nickel_ore",
+    "alltheores:andesite_nickel_ore",
+    "alltheores:tuff_nickel_ore",
+    "alltheores:calcite_nickel_ore",
+    "alltheores:dripstone_nickel_ore",
+    "alltheores:limestone_nickel_ore",
+    "alltheores:scoria_nickel_ore",
+    "alltheores:scorchia_nickel_ore",
+    "alltheores:crimsite_nickel_ore",
+    "alltheores:asurine_nickel_ore",
+    "alltheores:veridium_nickel_ore",
+    "alltheores:ochrum_nickel_ore",
+    "alltheores:sand_nickel_ore",
+    "alltheores:gravel_nickel_ore",
+    "alltheores:nether_nickel_ore",
+    "alltheores:blackstone_nickel_ore",
+    "alltheores:basalt_nickel_ore",
+    "alltheores:smooth_basalt_nickel_ore",
+    "alltheores:end_nickel_ore"
+  ]
+}

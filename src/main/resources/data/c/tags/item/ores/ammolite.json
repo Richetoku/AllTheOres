@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:ammolite_ore",
+    "alltheores:deepslate_ammolite_ore",
+    "alltheores:granite_ammolite_ore",
+    "alltheores:diorite_ammolite_ore",
+    "alltheores:andesite_ammolite_ore",
+    "alltheores:tuff_ammolite_ore",
+    "alltheores:calcite_ammolite_ore",
+    "alltheores:dripstone_ammolite_ore",
+    "alltheores:limestone_ammolite_ore",
+    "alltheores:scoria_ammolite_ore",
+    "alltheores:scorchia_ammolite_ore",
+    "alltheores:crimsite_ammolite_ore",
+    "alltheores:asurine_ammolite_ore",
+    "alltheores:veridium_ammolite_ore",
+    "alltheores:ochrum_ammolite_ore",
+    "alltheores:sand_ammolite_ore",
+    "alltheores:gravel_ammolite_ore",
+    "alltheores:nether_ammolite_ore",
+    "alltheores:blackstone_ammolite_ore",
+    "alltheores:basalt_ammolite_ore",
+    "alltheores:smooth_basalt_ammolite_ore",
+    "alltheores:end_ammolite_ore"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:peridot_ore",
+    "alltheores:deepslate_peridot_ore",
+    "alltheores:granite_peridot_ore",
+    "alltheores:diorite_peridot_ore",
+    "alltheores:andesite_peridot_ore",
+    "alltheores:tuff_peridot_ore",
+    "alltheores:calcite_peridot_ore",
+    "alltheores:dripstone_peridot_ore",
+    "alltheores:limestone_peridot_ore",
+    "alltheores:scoria_peridot_ore",
+    "alltheores:scorchia_peridot_ore",
+    "alltheores:crimsite_peridot_ore",
+    "alltheores:asurine_peridot_ore",
+    "alltheores:veridium_peridot_ore",
+    "alltheores:ochrum_peridot_ore",
+    "alltheores:sand_peridot_ore",
+    "alltheores:gravel_peridot_ore",
+    "alltheores:nether_peridot_ore",
+    "alltheores:blackstone_peridot_ore",
+    "alltheores:basalt_peridot_ore",
+    "alltheores:smooth_basalt_peridot_ore",
+    "alltheores:end_peridot_ore"
+  ]
+}

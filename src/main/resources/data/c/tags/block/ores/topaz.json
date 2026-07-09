@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:topaz_ore",
+    "alltheores:deepslate_topaz_ore",
+    "alltheores:granite_topaz_ore",
+    "alltheores:diorite_topaz_ore",
+    "alltheores:andesite_topaz_ore",
+    "alltheores:tuff_topaz_ore",
+    "alltheores:calcite_topaz_ore",
+    "alltheores:dripstone_topaz_ore",
+    "alltheores:limestone_topaz_ore",
+    "alltheores:scoria_topaz_ore",
+    "alltheores:scorchia_topaz_ore",
+    "alltheores:crimsite_topaz_ore",
+    "alltheores:asurine_topaz_ore",
+    "alltheores:veridium_topaz_ore",
+    "alltheores:ochrum_topaz_ore",
+    "alltheores:sand_topaz_ore",
+    "alltheores:gravel_topaz_ore",
+    "alltheores:nether_topaz_ore",
+    "alltheores:blackstone_topaz_ore",
+    "alltheores:basalt_topaz_ore",
+    "alltheores:smooth_basalt_topaz_ore",
+    "alltheores:end_topaz_ore"
+  ]
+}

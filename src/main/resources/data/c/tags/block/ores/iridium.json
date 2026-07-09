@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "alltheores:iridium_ore",
+    "alltheores:deepslate_iridium_ore",
+    "alltheores:granite_iridium_ore",
+    "alltheores:diorite_iridium_ore",
+    "alltheores:andesite_iridium_ore",
+    "alltheores:tuff_iridium_ore",
+    "alltheores:calcite_iridium_ore",
+    "alltheores:dripstone_iridium_ore",
+    "alltheores:limestone_iridium_ore",
+    "alltheores:scoria_iridium_ore",
+    "alltheores:scorchia_iridium_ore",
+    "alltheores:crimsite_iridium_ore",
+    "alltheores:asurine_iridium_ore",
+    "alltheores:veridium_iridium_ore",
+    "alltheores:ochrum_iridium_ore",
+    "alltheores:sand_iridium_ore",
+    "alltheores:gravel_iridium_ore",
+    "alltheores:nether_iridium_ore",
+    "alltheores:blackstone_iridium_ore",
+    "alltheores:basalt_iridium_ore",
+    "alltheores:smooth_basalt_iridium_ore",
+    "alltheores:end_iridium_ore"
+  ]
+}

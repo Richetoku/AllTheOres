@@ -1,0 +1,174 @@
+{
+  "unified_items": {
+    "copper": {
+      "ingot": "alltheores:copper_ingot",
+      "nugget": "alltheores:copper_nugget",
+      "raw": "alltheores:raw_copper",
+      "block": "alltheores:copper_block",
+      "ore": "alltheores:copper_ore",
+      "deepslate_ore": "alltheores:deepslate_copper_ore",
+      "dust": "alltheores:copper_dust"
+    },
+    "gold": {
+      "ingot": "minecraft:gold_ingot",
+      "nugget": "minecraft:gold_nugget",
+      "raw": "minecraft:raw_gold",
+      "block": "minecraft:gold_block",
+      "ore": "minecraft:gold_ore",
+      "deepslate_ore": "minecraft:deepslate_gold_ore",
+      "dust": "alltheores:gold_dust"
+    },
+    "iron": {
+      "ingot": "minecraft:iron_ingot",
+      "nugget": "minecraft:iron_nugget",
+      "raw": "minecraft:raw_iron",
+      "block": "minecraft:iron_block",
+      "ore": "minecraft:iron_ore",
+      "deepslate_ore": "minecraft:deepslate_iron_ore",
+      "dust": "alltheores:iron_dust"
+    },
+    "lead": {
+      "ingot": "alltheores:lead_ingot",
+      "nugget": "alltheores:lead_nugget",
+      "raw": "alltheores:raw_lead",
+      "block": "alltheores:lead_block",
+      "ore": "alltheores:lead_ore",
+      "deepslate_ore": "alltheores:deepslate_lead_ore",
+      "dust": "alltheores:lead_dust"
+    },
+    "nickel": {
+      "ingot": "alltheores:nickel_ingot",
+      "nugget": "alltheores:nickel_nugget",
+      "raw": "alltheores:raw_nickel",
+      "block": "alltheores:nickel_block",
+      "ore": "alltheores:nickel_ore",
+      "deepslate_ore": "alltheores:deepslate_nickel_ore",
+      "dust": "alltheores:nickel_dust"
+    },
+    "silver": {
+      "ingot": "alltheores:silver_ingot",
+      "nugget": "alltheores:silver_nugget",
+      "raw": "alltheores:raw_silver",
+      "block": "alltheores:silver_block",
+      "ore": "alltheores:silver_ore",
+      "deepslate_ore": "alltheores:deepslate_silver_ore",
+      "dust": "alltheores:silver_dust"
+    },
+    "tin": {
+      "ingot": "alltheores:tin_ingot",
+      "nugget": "alltheores:tin_nugget",
+      "raw": "alltheores:raw_tin",
+      "block": "alltheores:tin_block",
+      "ore": "alltheores:tin_ore",
+      "deepslate_ore": "alltheores:deepslate_tin_ore",
+      "dust": "alltheores:tin_dust"
+    },
+    "uranium": {
+      "ingot": "alltheores:uranium_ingot",
+      "nugget": "alltheores:uranium_nugget",
+      "raw": "alltheores:raw_uranium",
+      "block": "alltheores:uranium_block",
+      "ore": "alltheores:uranium_ore",
+      "deepslate_ore": "alltheores:deepslate_uranium_ore",
+      "dust": "alltheores:uranium_dust"
+    },
+    "iridium": {
+      "ingot": "alltheores:iridium_ingot",
+      "nugget": "alltheores:iridium_nugget",
+      "raw": "alltheores:raw_iridium",
+      "block": "alltheores:iridium_block",
+      "ore": "alltheores:iridium_ore",
+      "deepslate_ore": "alltheores:deepslate_iridium_ore",
+      "dust": "alltheores:iridium_dust"
+    },
+    "osmium": {
+      "ingot": "alltheores:osmium_ingot",
+      "nugget": "alltheores:osmium_nugget",
+      "raw": "alltheores:raw_osmium",
+      "block": "alltheores:osmium_block",
+      "ore": "alltheores:osmium_ore",
+      "deepslate_ore": "alltheores:deepslate_osmium_ore",
+      "dust": "alltheores:osmium_dust"
+    },
+    "platinum": {
+      "ingot": "alltheores:platinum_ingot",
+      "nugget": "alltheores:platinum_nugget",
+      "raw": "alltheores:raw_platinum",
+      "block": "alltheores:platinum_block",
+      "ore": "alltheores:platinum_ore",
+      "deepslate_ore": "alltheores:deepslate_platinum_ore",
+      "dust": "alltheores:platinum_dust"
+    },
+    "zinc": {
+      "ingot": "alltheores:zinc_ingot",
+      "nugget": "alltheores:zinc_nugget",
+      "raw": "alltheores:raw_zinc",
+      "block": "alltheores:zinc_block",
+      "ore": "alltheores:zinc_ore",
+      "deepslate_ore": "alltheores:deepslate_zinc_ore",
+      "dust": "alltheores:zinc_dust"
+    },
+    "aluminum": {
+      "ingot": "alltheores:aluminum_ingot",
+      "nugget": "alltheores:aluminum_nugget",
+      "raw": "alltheores:raw_aluminum",
+      "block": "alltheores:aluminum_block",
+      "ore": "alltheores:aluminum_ore",
+      "deepslate_ore": "alltheores:deepslate_aluminum_ore",
+      "dust": "alltheores:aluminum_dust"
+    },
+    "cobalt": {
+      "ingot": "alltheores:cobalt_ingot",
+      "nugget": "alltheores:cobalt_nugget",
+      "raw": "alltheores:raw_cobalt",
+      "block": "alltheores:cobalt_block",
+      "ore": "alltheores:cobalt_ore",
+      "deepslate_ore": "alltheores:deepslate_cobalt_ore",
+      "dust": "alltheores:cobalt_dust"
+    },
+    "azure_silver": {
+      "ingot": "alltheores:azure_silver_ingot",
+      "nugget": "alltheores:azure_silver_nugget",
+      "raw": "alltheores:raw_azure_silver",
+      "block": "alltheores:azure_silver_block",
+      "ore": "alltheores:azure_silver_ore",
+      "deepslate_ore": "alltheores:deepslate_azure_silver_ore",
+      "dust": "alltheores:azure_silver_dust"
+    },
+    "crimson_iron": {
+      "ingot": "alltheores:crimson_iron_ingot",
+      "nugget": "alltheores:crimson_iron_nugget",
+      "raw": "alltheores:raw_crimson_iron",
+      "block": "alltheores:crimson_iron_block",
+      "ore": "alltheores:crimson_iron_ore",
+      "deepslate_ore": "alltheores:deepslate_crimson_iron_ore",
+      "dust": "alltheores:crimson_iron_dust"
+    }
+  },
+  "unified_gems": {
+    "diamond": "minecraft:diamond",
+    "emerald": "minecraft:emerald",
+    "lapis_lazuli": "minecraft:lapis_lazuli",
+    "alexandrite": "alltheores:alexandrite",
+    "ammolite": "alltheores:ammolite",
+    "black_diamond": "alltheores:black_diamond",
+    "carnelian": "alltheores:carnelian",
+    "citrine": "alltheores:citrine",
+    "heliodor": "alltheores:heliodor",
+    "iolite": "alltheores:iolite",
+    "kyanite": "alltheores:kyanite",
+    "moldavite": "alltheores:moldavite",
+    "peridot": "alltheores:peridot",
+    "rose_quartz": "alltheores:rose_quartz",
+    "ruby": "alltheores:ruby",
+    "sapphire": "alltheores:sapphire",
+    "topaz": "alltheores:topaz",
+    "turquoise": "alltheores:turquoise",
+    "white_diamond": "alltheores:white_diamond",
+    "celestigem": "alltheores:celestigem",
+    "quartz": "minecraft:quartz",
+    "amethyst": "minecraft:amethyst_shard",
+    "prismarine_shard": "minecraft:prismarine_shard",
+    "prismarine_crystals": "minecraft:prismarine_crystals"
+  }
+}
